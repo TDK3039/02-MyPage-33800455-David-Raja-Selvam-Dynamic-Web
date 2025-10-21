@@ -1,6 +1,7 @@
 var http = require("http");
 const port = 8000;
 
+//Create server and define response behaviour
 http.createServer(function(req, res) {
     res.writeHead(200, { "Content-Type": "text/html" });
     res.end(`
@@ -15,6 +16,7 @@ http.createServer(function(req, res) {
             <li><strong>Classical:</strong> I am currently into Sergei Rachmaninoff’s Piano Concerto No. 2 — especially the last 3 minutes. It feels like paradise on earth.</li>
         </ul>
     `);
+    //Start server listen on port
 }).listen(port, function() {
     console.log(`Node server is running on port ${port}...`);
 });
