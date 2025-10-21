@@ -9,7 +9,7 @@ http.createServer(function(req, res) {
         <p><strong>About me:</strong> I am currently studying Computer Science at Goldsmiths University.</p>
         <p><strong>Interests:</strong></p>
         <ul>
-            <li><strong>Football:</strong> My favourite player is Messi — to me, he is the best footballer in the world.</li>
+            <li><strong>Football:</strong> My favourite player is Messi, to me, he is the best footballer in the world.</li>
             <li><strong>Tennis:</strong> Roger Federer never fails to surprise me. He plays with such elegance that he makes it look effortless.</li>
             <li><strong>Basketball:</strong> I enjoy the energy and strategy of the game it keeps me on my toes.</li>
             <li><strong>Music:</strong> I keep an open mind. I love artists like Mariah Carey, Drake, Giveon, and Michael Jackson. Whatever sounds good to my ears ends up in my playlist.</li>
