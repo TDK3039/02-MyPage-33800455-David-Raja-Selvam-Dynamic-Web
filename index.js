@@ -12,7 +12,7 @@ http.createServer(function(req, res) {
             <li><strong>Tennis:</strong> Roger Federer never fails to surprise me. He plays with such elegance that he makes it look effortless.</li>
             <li><strong>Basketball:</strong> I enjoy the energy and strategy of the game — it keeps me on my toes.</li>
             <li><strong>Music:</strong> I keep an open mind. I love artists like Mariah Carey, Drake, Giveon, and Michael Jackson. Whatever sounds good to my ears ends up in my playlist.</li>
-            <li><strong>Classical:</strong> I’m currently into Sergei Rachmaninoff’s Piano Concerto No. 2 — especially the last 3 minutes. It feels like paradise on earth.</li>
+            <li><strong>Classical:</strong> I am currently into Sergei Rachmaninoff’s Piano Concerto No. 2 — especially the last 3 minutes. It feels like paradise on earth.</li>
         </ul>
     `);
 }).listen(port, function() {
